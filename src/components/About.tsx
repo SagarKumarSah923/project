@@ -59,7 +59,7 @@ const About = () => {
                 <img src={BroImg} alt="About - Narayana Law Firm" className="w-full h-full object-cover" />
               </div>
               <div className="absolute -bottom-6 -right-6 bg-blue-600 text-white p-6 rounded-xl shadow-2xl">
-                <div className="text-3xl font-bold mb-1">18+</div>
+                <div className="text-3xl font-bold mb-1">12+</div>
                 <div className="text-sm">Years of Excellence</div>
               </div>
             </div>

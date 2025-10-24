@@ -57,16 +57,16 @@ const Hero = () => {
           {/* Stats Cards */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16 max-w-4xl mx-auto">
             <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20 hover:bg-white/15 transition-all">
-              <div className="text-4xl font-bold text-blue-300 mb-2">18+</div>
-              <div className="text-white/80">Years of Excellence</div>
+              <div className="text-3xl font-bold mb-1">12+</div>
+              <div className="text-sm">Years of Excellence</div>
             </div>
             <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20 hover:bg-white/15 transition-all">
-              <div className="text-4xl font-bold text-blue-300 mb-2">2000+</div>
-              <div className="text-white/80">Cases Successfully Handled</div>
+              <div className="text-3xl font-bold mb-1">2000+</div>
+              <div className="text-sm">Cases Successfully Handled</div>
             </div>
             <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20 hover:bg-white/15 transition-all">
-              <div className="text-4xl font-bold text-blue-300 mb-2">90%</div>
-              <div className="text-white/80">Client Satisfaction</div>
+              <div className="text-3xl font-bold mb-1">90%</div>
+              <div className="text-sm">Client Satisfaction</div>
             </div>
           </div>
         </div>
